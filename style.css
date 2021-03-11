@@ -34,6 +34,7 @@ main{
 }
 
 .glass{
+    margin: 10px;
     background:white;
     min-height: 80vh;
     width: 60%;
