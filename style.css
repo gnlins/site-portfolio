@@ -109,10 +109,11 @@ main{
     color: white;
     padding: 1rem;
     position:relative;
+    margin-bottom: 10px;
 }
 .pro img{
     position: absolute;
-    top: -10%;
+    top: 2.2%;
     right: 10%;
 
 }
